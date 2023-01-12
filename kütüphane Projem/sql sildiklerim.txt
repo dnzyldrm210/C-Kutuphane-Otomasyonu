@@ -1,0 +1,67 @@
+Create Database Kitaplik
+
+Create table Kullanicilar(
+ID int primary key identity (1,1),
+username nvarchar(50),
+surname nvarchar(50),
+email nvarchar(50)not null,
+pass nvarchar(50) not null,
+roller int default 0,
+unique (email)
+)
+insert into Kullanicilar (username,surname,email,pass)
+values ('Deniz','Yıldırım','denizyildirim210@gmail.com','210422')
+
+
+alter table kullanicilar add telno nvarchar(11)
+alter table kullanicilar add adress nvarchar(100)
+alter table kullanicilar add cinsiyet nvarchar(5)
+
+alter table kullanicilar add cinsiyet nvarchar(5)
+
+create table book(
+ID int primary key identity(1,1),
+kitapadi nvarchar(50)not null,
+yazari nvarchar(50)not null,
+kitapturu nvarchar(50)not null,
+baskiyili int not null,
+ISBN char(13) not null,
+sayfasayisi int not null,
+kitapdili nvarchar(50) not null,
+yayinevi nvarchar(100) not null,
+aciklama nvarchar(2000),
+unique(kitapadi),
+unique(ISBN)
+) 
+
+delete from book
+select*from book
+drop table book
+
+alter table book alter column baskiyili int;
+
+alter table book alter column sayfasayisi int;
+
+alter table book add unique(ISBN);
+
+create table uyeler(
+ID int primary key identity(1,1),
+tc char(11) not null,
+ad nvarchar(50) not null,
+soyad nvarchar(50) not null,
+email nvarchar(100) not null,
+telno char(11) not null,
+unique(tc),
+unique(email),
+unique(telno)
+)
+
+
+create table emanet(
+ID int primary key identity(1,1),
+tc char(11) foreign key references uyeler(tc),
+ISBN char(13) foreign key references book(ISBN),
+kitapadi nvarchar(50) foreign key references book(kitapadi),
+emanetdurumu nvarchar(50) not null,
+emanettarih  datetime not null default getdate()
+)

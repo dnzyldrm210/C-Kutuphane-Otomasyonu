@@ -1,0 +1,88 @@
+C:\Users\Deniz YILDIRIM\Desktop\Proje\kitaplik\kitaplik\bin\Debug\kitaplik.exe.config
+C:\Users\Deniz YILDIRIM\Desktop\Proje\kitaplik\kitaplik\bin\Debug\kitaplik.exe
+C:\Users\Deniz YILDIRIM\Desktop\Proje\kitaplik\kitaplik\bin\Debug\kitaplik.pdb
+C:\Users\Deniz YILDIRIM\Desktop\Proje\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.AssemblyReference.cache
+C:\Users\Deniz YILDIRIM\Desktop\Proje\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deniz YILDIRIM\Desktop\Proje\kitaplik\kitaplik\obj\Debug\kitaplik.Form1.resources
+C:\Users\Deniz YILDIRIM\Desktop\Proje\kitaplik\kitaplik\obj\Debug\kitaplik.Properties.Resources.resources
+C:\Users\Deniz YILDIRIM\Desktop\Proje\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.GenerateResource.cache
+C:\Users\Deniz YILDIRIM\Desktop\Proje\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.CoreCompileInputs.cache
+C:\Users\Deniz YILDIRIM\Desktop\Proje\kitaplik\kitaplik\obj\Debug\kitaplik.exe
+C:\Users\Deniz YILDIRIM\Desktop\Proje\kitaplik\kitaplik\obj\Debug\kitaplik.pdb
+C:\Users\Deniz YILDIRIM\Desktop\Proje\kitaplik\kitaplik\obj\Debug\kitaplik.admin.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\bin\Debug\kitaplik.exe.config
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\bin\Debug\kitaplik.exe
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\bin\Debug\kitaplik.pdb
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.AssemblyReference.cache
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.admin.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.Form1.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.Properties.Resources.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.user.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.GenerateResource.cache
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.CoreCompileInputs.cache
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.exe
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.pdb
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.kitapekle.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.kitaplistele.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.emanet.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.uyesayfasi.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.emanetlistele.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem\kitaplik\kitaplik\obj\Debug\kitaplik.uyelistele.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\bin\Debug\kitaplik.exe.config
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\bin\Debug\kitaplik.exe
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\bin\Debug\kitaplik.pdb
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.AssemblyReference.cache
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.admin.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.emanet.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.emanetlistele.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.Form1.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.kitapekle.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.kitaplistele.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.Properties.Resources.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.user.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.uyelistele.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.uyesayfasi.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.GenerateResource.cache
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.CoreCompileInputs.cache
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.exe
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.pdb
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.AssemblyReference.cache
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.admin.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.emanet.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.emanetlistele.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.Form1.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.kitapekle.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.kitaplistele.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.Properties.Resources.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.user.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.uyelistele.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.uyesayfasi.resources
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.GenerateResource.cache
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.CoreCompileInputs.cache
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.exe
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.pdb
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\bin\Debug\kitaplik.exe.config
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\bin\Debug\kitaplik.exe
+C:\Users\Deniz YILDIRIM\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\bin\Debug\kitaplik.pdb
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\bin\Debug\kitaplik.exe.config
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\bin\Debug\kitaplik.exe
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\bin\Debug\kitaplik.pdb
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.AssemblyReference.cache
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.admin.resources
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.emanet.resources
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.emanetlistele.resources
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.Form1.resources
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.kitapekle.resources
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.kitaplistele.resources
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.Properties.Resources.resources
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.user.resources
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.uyelistele.resources
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.uyesayfasi.resources
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.GenerateResource.cache
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.exe
+C:\Users\Hakan\Desktop\kütüphane Projem - son Kopya\kitaplik\kitaplik\obj\Debug\kitaplik.pdb
